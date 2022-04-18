@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @syeda-muskan-ali
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning javascript
